@@ -1,0 +1,405 @@
+[
+    {
+        "type": "angular-gradient",
+        "name": "ruby-conic-gradient",
+        "value": "conic-gradient(from 184.4deg at 57.69% 50%, rgb(236, 23, 23) 0deg, rgb(255, 255, 255) 172.5deg, rgb(255, 123, 123) 360deg)"
+    },
+    {
+        "type": "radial-gradient",
+        "name": "radial-gradient",
+        "value": "radial-gradient(50% 50% at 50% 50%, rgb(111, 153, 85) 5.21%, rgba(47, 85, 157, 0.72) 31.77%, rgba(191, 51, 135, 0) 78.13%)"
+    },
+    {
+        "type": "radial-gradient",
+        "name": "moon",
+        "value": "radial-gradient(91.11% 91.11% at 32.14% -5.56%, rgb(62, 72, 157) 0%, rgba(95, 95, 100, 0.5) 100%)"
+    },
+    {
+        "type": "radial-gradient",
+        "name": "mars-4",
+        "value": "radial-gradient(95.95% 95.95% at 50% 51.35%, rgb(255, 0, 0) 0%, rgba(250, 158, 21, 0) 100%)"
+    },
+    {
+        "type": "radial-gradient",
+        "name": "forest",
+        "value": "radial-gradient(30.49% 82% at 80.49% 122%, rgb(4, 255, 59) 0%, rgb(255, 122, 0) 100%)"
+    },
+    {
+        "type": "linear-gradient",
+        "name": "linear-grad-2",
+        "value": "linear-gradient(187.91deg, rgb(111, 0, 0) 3.66%, rgba(111, 0, 0, 0.72) 30.73%, rgb(248, 234, 234) 30.74%, rgb(248, 234, 234) 93.23%)"
+    },
+    {
+        "type": "linear-gradient",
+        "name": "linear-angle",
+        "value": "linear-gradient(4.49deg, rgb(35, 250, 0) 139.13%, rgb(255, 0, 0) 13.8%)"
+    },
+    {
+        "type": "linear-gradient",
+        "name": "flag-2",
+        "value": "linear-gradient(180deg, rgb(255, 0, 0) -16.67%, rgb(0, 71, 255) 55.99%, rgb(241, 232, 0) 128.65%)"
+    },
+    {
+        "type": "linear-gradient",
+        "name": "xy-test",
+        "value": "linear-gradient(206.57deg, rgb(217, 217, 217) 0%, rgba(217, 217, 217, 0) 100%)"
+    },
+    {
+        "type": "linear-gradient",
+        "name": "case-2",
+        "value": "linear-gradient(180deg, rgb(255, 0, 0) 50%, rgb(0, 10, 255) 75%, rgb(255, 199, 0) 100%)"
+    },
+    {
+        "type": "linear-gradient",
+        "name": "sync-case",
+        "value": "linear-gradient(203.2deg, rgb(250, 12, 12) -75%, rgb(5, 58, 246) 100%)"
+    },
+    {
+        "type": "background-blur",
+        "name": "backdrop-blur",
+        "value": "blur(9.5px)"
+    },
+    {
+        "type": "blur",
+        "name": "layer-blur",
+        "value": "blur(2px)"
+    },
+    {
+        "type": "shadow",
+        "name": "shadow",
+        "value": "0px 10px 20px rgba(0, 0, 0, 0.15)"
+    },
+    {
+        "type": "shadow",
+        "name": "inner-shadow",
+        "value": "inset 10px 20px 40px 5px rgba(0, 0, 0, 0.25)"
+    },
+    {
+        "type": "border",
+        "name": "red-border",
+        "value": "1px dashed rgb(209, 16, 16)"
+    },
+    {
+        "type": "border",
+        "name": "blue-border-alpha",
+        "value": "2px dashed rgba(53, 58, 175, 0.8)"
+    },
+    {
+        "type": "line-height",
+        "name": "hello-line-height",
+        "value": "14.5px"
+    },
+    {
+        "type": "line-height",
+        "name": "ubuntu-line-height",
+        "value": "15px"
+    },
+    {
+        "type": "letter-spacing",
+        "name": "ubuntu-letter-spacing",
+        "value": "1.5px"
+    },
+    {
+        "type": "font-weight",
+        "name": "hello-font-weight",
+        "value": 400
+    },
+    {
+        "type": "font-weight",
+        "name": "ubuntu-font-weight",
+        "value": 700
+    },
+    {
+        "type": "font-size",
+        "name": "hello-font-size",
+        "value": "12px"
+    },
+    {
+        "type": "font-size",
+        "name": "ubuntu-font-size",
+        "value": "15px"
+    },
+    {
+        "type": "font-family",
+        "name": "hello-font-family",
+        "value": "'Inter'"
+    },
+    {
+        "type": "font-family",
+        "name": "ubuntu-font-family",
+        "value": "'Ubuntu Mono'"
+    },
+    {
+        "type": "color",
+        "name": "triangle-first",
+        "value": "rgb(158, 108, 108)"
+    },
+    {
+        "type": "color",
+        "name": "eighth",
+        "value": "rgb(132, 227, 117)"
+    },
+    {
+        "type": "color",
+        "name": "nineth",
+        "value": "rgb(54, 207, 79)"
+    },
+    {
+        "type": "color",
+        "name": "fortho",
+        "value": "rgb(254, 221, 221)"
+    },
+    {
+        "type": "color",
+        "name": "triangle-third",
+        "value": "rgb(122, 85, 85)"
+    },
+    {
+        "type": "color",
+        "name": "sixth",
+        "value": "rgb(238, 250, 236)"
+    },
+    {
+        "type": "color",
+        "name": "seventh",
+        "value": "rgb(207, 251, 217)"
+    },
+    {
+        "type": "color",
+        "name": "triangle-second",
+        "value": "rgba(206, 31, 31, 0.5)"
+    },
+    {
+        "type": "color",
+        "name": "hello",
+        "value": "rgb(115, 41, 41)"
+    },
+    {
+        "type": "border-radius",
+        "name": "red-border",
+        "value": [
+            2,
+            2,
+            3,
+            3
+        ]
+    },
+    {
+        "type": "border-radius",
+        "name": "blue-border-alpha",
+        "value": {}
+    },
+    {
+        "type": "text",
+        "name": "hello-stylebit",
+        "value": {
+            "color": "#732929",
+            "characters": "Hello stylebit",
+            "font": {
+                "lineHeightPx": 14.5,
+                "letterSpacing": 0,
+                "fontFamily": "Inter",
+                "fontSize": 12,
+                "fontWeight": 400
+            }
+        }
+    },
+    {
+        "type": "text",
+        "name": "hello-stylebit",
+        "value": {
+            "color": "#732929",
+            "characters": "Hello stylebit",
+            "font": {
+                "lineHeightPx": 14.5,
+                "letterSpacing": 0,
+                "fontFamily": "Inter",
+                "fontSize": 12,
+                "fontWeight": 400
+            }
+        }
+    },
+    {
+        "type": "text",
+        "name": "hello-stylebit-again",
+        "value": {
+            "color": "#732929",
+            "characters": "Hello stylebit again",
+            "font": {
+                "lineHeightPx": 14.5,
+                "letterSpacing": 0,
+                "fontFamily": "Inter",
+                "fontSize": 12,
+                "fontWeight": 400
+            }
+        }
+    },
+    {
+        "type": "text",
+        "name": "hello-adobe",
+        "value": {
+            "characters": "hello adobe",
+            "font": {
+                "lineHeightPx": 14.5,
+                "letterSpacing": 0,
+                "fontFamily": "Inter",
+                "fontSize": 12,
+                "fontWeight": 400
+            }
+        }
+    },
+    {
+        "type": "text",
+        "name": "128-px",
+        "value": {
+            "characters": "128px",
+            "font": {
+                "lineHeightPx": 14.5,
+                "letterSpacing": 0,
+                "fontFamily": "Inter",
+                "fontSize": 12,
+                "fontWeight": 400
+            }
+        }
+    },
+    {
+        "type": "text",
+        "name": "180-px",
+        "value": {
+            "characters": "180px",
+            "font": {
+                "lineHeightPx": 14.5,
+                "letterSpacing": 0,
+                "fontFamily": "Inter",
+                "fontSize": 12,
+                "fontWeight": 400
+            }
+        }
+    },
+    {
+        "type": "text",
+        "name": "256-px",
+        "value": {
+            "characters": "256px",
+            "font": {
+                "lineHeightPx": 14.5,
+                "letterSpacing": 0,
+                "fontFamily": "Inter",
+                "fontSize": 12,
+                "fontWeight": 400
+            }
+        }
+    },
+    {
+        "type": "text",
+        "name": "v-64",
+        "value": {
+            "characters": "v64",
+            "font": {
+                "lineHeightPx": 14.5,
+                "letterSpacing": 0,
+                "fontFamily": "Inter",
+                "fontSize": 12,
+                "fontWeight": 400
+            }
+        }
+    },
+    {
+        "type": "text",
+        "name": "v-128",
+        "value": {
+            "characters": "v128",
+            "font": {
+                "lineHeightPx": 14.5,
+                "letterSpacing": 0,
+                "fontFamily": "Inter",
+                "fontSize": 12,
+                "fontWeight": 400
+            }
+        }
+    },
+    {
+        "type": "text",
+        "name": "v-32",
+        "value": {
+            "characters": "v32",
+            "font": {
+                "lineHeightPx": 14.5,
+                "letterSpacing": 0,
+                "fontFamily": "Inter",
+                "fontSize": 12,
+                "fontWeight": 400
+            }
+        }
+    },
+    {
+        "type": "text",
+        "name": "v-40",
+        "value": {
+            "characters": "v40",
+            "font": {
+                "lineHeightPx": 14.5,
+                "letterSpacing": 0,
+                "fontFamily": "Inter",
+                "fontSize": 12,
+                "fontWeight": 400
+            }
+        }
+    },
+    {
+        "type": "text",
+        "name": "diamond",
+        "value": {
+            "characters": "diamond",
+            "font": {
+                "lineHeightPx": 4.8,
+                "letterSpacing": 0,
+                "fontFamily": "Inter",
+                "fontSize": 4,
+                "fontWeight": 400
+            }
+        }
+    },
+    {
+        "type": "text",
+        "name": "ruby",
+        "value": {
+            "characters": "ruby",
+            "font": {
+                "lineHeightPx": 4.8,
+                "letterSpacing": 0,
+                "fontFamily": "Inter",
+                "fontSize": 4,
+                "fontWeight": 400
+            }
+        }
+    },
+    {
+        "type": "text",
+        "name": "flag",
+        "value": {
+            "characters": "flag",
+            "font": {
+                "lineHeightPx": 3.6,
+                "letterSpacing": 0,
+                "fontFamily": "Inter",
+                "fontSize": 3,
+                "fontWeight": 400
+            }
+        }
+    },
+    {
+        "type": "text",
+        "name": "wow",
+        "value": {
+            "characters": "wow",
+            "font": {
+                "lineHeightPx": 14.5,
+                "letterSpacing": 0,
+                "fontFamily": "Inter",
+                "fontSize": 12,
+                "fontWeight": 600
+            }
+        }
+    }
+]
