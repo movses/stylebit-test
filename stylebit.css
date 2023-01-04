@@ -1,0 +1,54 @@
+{
+    "colors": {
+        "\"triangle-first\"": "rgb(158, 108, 108)",
+        "eighth": "rgb(132, 227, 117)",
+        "nineth": "rgb(54, 207, 79)",
+        "fortho": "rgb(254, 221, 221)",
+        "\"triangle-third\"": "rgb(122, 85, 85)",
+        "sixth": "rgb(238, 250, 236)",
+        "seventh": "rgb(207, 251, 217)",
+        "\"triangle-second\"": "rgba(206, 31, 31, 0.5)",
+        "hello": "rgb(115, 41, 41)"
+    },
+    "letterSpacing": {
+        "\"ubuntu-letter-spacing\"": "1.5px"
+    },
+    "lineHeight": {
+        "\"hello-line-height\"": "14.5px",
+        "\"ubuntu-line-height\"": "15px"
+    },
+    "fontSize": {
+        "\"hello-font-size\"": "12px",
+        "\"ubuntu-font-size\"": "15px"
+    },
+    "fontWeight": {
+        "\"hello-font-weight\"": 400,
+        "\"ubuntu-font-weight\"": 700
+    },
+    "fontFamily": {
+        "\"hello-font-family\"": "'Inter'",
+        "\"ubuntu-font-family\"": "'Ubuntu Mono'"
+    },
+    "blur": {
+        "\"layer-blur\"": "blur(2px)"
+    },
+    "backdropBlur": {
+        "\"backdrop-blur\"": "blur(9.5px)"
+    },
+    "boxShadow": {
+        "shadow": "0px 10px 20px rgba(0, 0, 0, 0.15)",
+        "\"inner-shadow\"": "inset 10px 20px 40px 5px rgba(0, 0, 0, 0.25)"
+    },
+    "borderWidth": {
+        "\"red-border\"": "1px",
+        "\"blue-border-alpha\"": "2px"
+    },
+    "borderColor": {
+        "\"red-border\"": "rgb(209, 16, 16)",
+        "\"blue-border-alpha\"": "rgba(53, 58, 175, 0.8)"
+    },
+    "borderStyle": {
+        "\"red-border\"": "dashed",
+        "\"blue-border-alpha\"": "dashed"
+    }
+}
